@@ -3,4 +3,6 @@
 
 echo 'Hi';
 
+print r()
+
 
