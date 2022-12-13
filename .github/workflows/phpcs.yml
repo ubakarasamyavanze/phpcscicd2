@@ -16,5 +16,5 @@ jobs:
         SKIP_FOLDERS: "assets,vendors"
         PHP_LINT: true
       with:
-        args: "PSR12"
+        args: "PSR4"
         
