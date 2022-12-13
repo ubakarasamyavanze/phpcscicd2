@@ -1,6 +1,5 @@
 <?php
 
 
-echo 'Hi123';
-
+echo 'Hi';
 
