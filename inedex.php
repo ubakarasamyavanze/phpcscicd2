@@ -1,6 +1,5 @@
 <?php
 
-
-echo strv(123);
+echo 123;
 
 
