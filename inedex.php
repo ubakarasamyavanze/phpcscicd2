@@ -1,4 +1,3 @@
 <?php
 
-
-echo 'Hi';
+echo 123;
